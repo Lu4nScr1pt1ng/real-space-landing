@@ -37,7 +37,7 @@ function Explore() {
             </button>
           </div>
           <div
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-delay="400"
             data-aos-duration="600"
             className="mx-auto flex-1 max-w-[320px] md:w-auto"

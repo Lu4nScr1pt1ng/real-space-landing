@@ -25,7 +25,7 @@ function Tutorial() {
               Wakanda is an easy platform to find talent
             </h1>
             <ul
-              data-aos="zoom-in-left"
+              data-aos="zoom-in"
               data-aos-delay="400"
               data-aos-duration="600"
               className="flex flex-col ml-4 gap-y-2 md:ml-0 md:gap-y-4"
